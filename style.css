@@ -26,7 +26,7 @@ h2 {
 
 }
 
-.experience-header {
+.experience-header, .school-date {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -37,6 +37,14 @@ h2 {
     font-size: 20px;
 }
 
-.job-description {
-    max-width: 1000px;
+.job-description, .project-description {
+    max-width: 2000px;
+    margin: 0 auto;
+    font-size: 16px;
+}
+
+.section {
+    text-transform: uppercase;
+    border-bottom: 3px solid black;
+    padding-bottom: 5px;
 }
