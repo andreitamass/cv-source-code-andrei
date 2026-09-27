@@ -23,3 +23,18 @@ h2 {
     font-style: italic;
 
 }
+
+.experience-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.date {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.job-description {
+    max-width: 1000px;
+}
