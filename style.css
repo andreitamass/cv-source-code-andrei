@@ -1,6 +1,8 @@
-h1 {
+.name {
     text-align: center;
     font-size: 32px;
+    background-color: rgb(138, 104, 80);
+    padding: 10px;
 }
 
 .moreInfo {
