@@ -3,7 +3,7 @@ body {
 }
 
 .name {
-    font-size: 32px;
+    font-size: 52px;
     padding: 10px;
 }
 
@@ -11,7 +11,8 @@ body {
     text-align: center;
     display: block;
     padding: 30px;
-    background-color: #c7d7f5;
+    background-color: #5987dd;
+    color: white;
 }
 
 .moreInfo {
@@ -25,7 +26,7 @@ hr {
 h2 {
     font-weight: bold;
     font-size: 24px;
-    color: #c7d7f5;
+    color: #5987dd;
 }
 
 .degree {
