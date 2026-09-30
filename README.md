@@ -1,11 +1,11 @@
-Personligt CV
+Personal CV
 
-Mitt personliga CV utvecklat från grunden med HTML och CSS.
+My personal CV, developed from scratch using HTML and CSS.
 
 - HTML
 - CSS
 
-Jag designade och utvecklade CV:t från grunden med HTML och CSS,
-med fokus på struktur, layout och användarvänlig design.
+I designed and developed the CV from scratch using HTML and CSS,
+focusing on structure, layout, and user-friendly design.
 
-CV:t kan exporteras till PDF och används som mitt personliga CV.
+The CV can be exported to PDF and serves as my personal CV.
